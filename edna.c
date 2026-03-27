@@ -1,4 +1,3 @@
-//https://viewsourcecode.org/snaptoken/kilo/
 
 
 /* Includes */
